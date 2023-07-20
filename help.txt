@@ -1,9 +1,3 @@
 <<<<<<< HEAD
 My phone number is 0890233773
 My email is 6411130004@mut.ac.th
-=======
-My phone number is 0890233773
-My email is kwanjutha@gmail.com
->>>>>>> 92c570a12f4cfadff927f617c6c52a6dd877e676
-
-TEST
